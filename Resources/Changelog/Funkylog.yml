@@ -1390,3 +1390,21 @@ Entries:
       message: Added Neanderthal ghost role
   id: 171
   time: '2025-01-26T21:11:32.0000000+00:00'
+- author: empty0set
+  changes:
+    - type: Tweak
+      message: butterflies are now edible
+  id: 172
+  time: '2025-01-27T03:34:34.0000000+00:00'
+- author: mkanke-real
+  changes:
+    - type: Fix
+      message: Fixed Roid Atmos! Enjoy breathing!
+  id: 173
+  time: '2025-01-27T03:35:08.0000000+00:00'
+- author: ' deltanedas'
+  changes:
+    - type: Remove
+      message: Extreme heat no longer turns people to ash.
+  id: 174
+  time: '2025-01-27T22:05:47.0000000+00:00'
